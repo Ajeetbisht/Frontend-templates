@@ -1,3 +1,60 @@
-.nav{
+*{
+	margin:0;
+	padding:0;
+}
 
+.nav{
+	width:100%;
+	height:60px;
+	background-color: #fff;
+	box-shadow: rgba(0,0,0,0.2)0 2px 6px 0;
+}
+/* this will give a rectangle */
+
+ul{
+	list-style-type:none;
+}
+
+ul li{
+	float:left;
+	width:140px;
+	height:60px;
+	font-size:20px; /* this will seprate text*/
+	line-height:60px; /*to have text in vertically center */ 
+/*	border:1px solid #000; for border */
+	text-align:center;	
+}
+
+ul li a{
+	text-decoration:none;
+	color: #000;
+	display:block;
+}
+
+ul li a:hover{
+	background-color: #0cd2f3;
+	transition: 1s all ease;
+}
+
+ul li ul li{
+	display:none;
+	background-color: #fff;
+	box-shadow:rgba(0,0,0,0.2) 0 2px 6px 0;
+	height:60px;
+	transition: 1s all;/* for showing the li in li with a time allocated to it */
+}
+
+ul li:hover ul li{
+	display:block;
+	animation:drop 1s ease;
+}
+ /*drop is a variable to access the animation */
+@keyframes drop{
+	0%{
+		transform:scala(2,2) rotate(90 deg);
+	}
+	100%{
+		transform:scala(1,1) rotate(0 deg);
+	}
+}
 }
