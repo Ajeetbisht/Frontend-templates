@@ -43,3 +43,6 @@ ul li ul li{
 	height:60px;
 	transition: 1s all;/* for showing the li in li with a time allocated to it */
 }
+ul li:hover ul li{
+	display:block;
+}
