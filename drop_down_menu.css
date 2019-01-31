@@ -43,18 +43,3 @@ ul li ul li{
 	height:60px;
 	transition: 1s all;/* for showing the li in li with a time allocated to it */
 }
-
-ul li:hover ul li{
-	display:block;
-	animation:drop 1s ease;
-}
- /*drop is a variable to access the animation */
-@keyframes drop{
-	0%{
-		transform:scala(2,2) rotate(90 deg);
-	}
-	100%{
-		transform:scala(1,1) rotate(0 deg);
-	}
-}
-}
