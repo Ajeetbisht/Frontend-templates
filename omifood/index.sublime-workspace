@@ -1,0 +1,591 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"hea",
+				"head\tTag"
+			],
+			[
+				"h",
+				"head\tTag"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"oc",
+				"opacity\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"backgrou",
+				"background-size\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"fotn",
+				"font-weight\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"l",
+				"left\tproperty"
+			],
+			[
+				"tetx",
+				"text-align\tproperty"
+			],
+			[
+				"bo",
+				"box-shadow\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"is",
+				"isUservalid"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"p",
+				"passwordprompt"
+			],
+			[
+				"username",
+				"usernamePrompt"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"time",
+				"timeline"
+			],
+			[
+				"grid-templ",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"ro",
+				"rotate()\ttransform"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"bor",
+				"border-image-slice\tproperty"
+			],
+			[
+				"transitioo",
+				"transition-duration\tproperty"
+			],
+			[
+				"f",
+				"inline-flex\tdisplay"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"v",
+				"vertical-align\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"Ap",
+				"AppletNew"
+			],
+			[
+				"a",
+				"ab\tabstract"
+			],
+			[
+				"word",
+				"word-spacing\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"anima",
+				"animation-fill-mode\tproperty"
+			],
+			[
+				"ease",
+				"ease-in-out\tanimation-timing-function"
+			],
+			[
+				"rot",
+				"rotateX()\ttransform"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"tra",
+				"transform-origin\tproperty"
+			],
+			[
+				"trns",
+				"transform\tproperty"
+			],
+			[
+				"tr",
+				"transition-timing-function\tproperty"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"backro",
+				"background-color\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"fotn-",
+				"font-size\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"paddin",
+				"padding-right\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Responsive websites/Homepage/contact.html",
+		"/F/Responsive websites/Homepage/about.html",
+		"/F/Responsive websites/Homepage/service.html",
+		"/F/Responsive websites/Homepage/index.html",
+		"/C/Users/user/Desktop/cpj-java/myapplet.html",
+		"/C/Users/user/Desktop/cpj-java/Ajeet.java",
+		"/C/Users/user/Desktop/cpj-java/AppletNew.class",
+		"/F/Responsive websites/omifood/try.css",
+		"/F/Responsive websites/omifood/try.html",
+		"/F/Responsive websites/omifood/index.html",
+		"/F/Responsive websites/omifood/css/style.css",
+		"/F/Responsive websites/omifood/css/try.css",
+		"/F/udemy_web/12.Dom/script.js",
+		"/F/udemy_web/12.Dom/index.html",
+		"/F/udemy_web/12.Dom/dom_events.txt",
+		"/F/udemy_web/12.Dom/index2.html",
+		"/F/udemy_web/12.Dom/script1.js",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/12. DOM Manipulation/6.3 script.js.js",
+		"/F/udemy_web/12.Dom/DOM selectors.txt",
+		"/F/udemy_web/7.adavnce_css/css_game/navigation_bar.html",
+		"/F/udemy_web/7.adavnce_css/css_game/nav.css",
+		"/F/udemy_web/7.adavnce_css/css_game/nav.html",
+		"/F/udemy_web/7.adavnce_css/css_game/navigation_bar.css",
+		"/F/udemy_web/7.adavnce_css/boxsizing.html",
+		"/F/udemy_web/7.adavnce_css/boxsizing.css",
+		"/F/udemy_web/7.adavnce_css/position.css",
+		"/F/udemy_web/7.adavnce_css/positioin.html",
+		"/F/udemy_web/12.Dom/3.1 DOM selectors.txt.txt",
+		"/F/udemy_web/javascript/script2.js",
+		"/F/udemy_web/javascript/pratice.js",
+		"/F/udemy_web/project.html",
+		"/F/udemy_web/project.css",
+		"/F/udemy_web/javascript/pratice.html",
+		"/F/udemy_web/javascript/index3.html",
+		"/F/udemy_web/javascript/script.js",
+		"/F/udemy_web/javascript/index2.html",
+		"/F/udemy_web/javascript/index2. html",
+		"/F/udemy_web/javascript/object.js",
+		"/F/udemy_web/javascript/index.html",
+		"/F/udemy_web/Css layaout+grid/notes.txxt",
+		"/F/udemy_web/Css layaout+grid/index.html",
+		"/F/udemy_web/Css layaout+grid/style.css",
+		"/F/udemy_web/7.adavnce_css/game.css",
+		"/F/udemy_web/7.adavnce_css/11.2 index.html.html",
+		"/F/udemy_web/7.adavnce_css/11.1 style.css.css",
+		"/F/udemy_web/7.adavnce_css/game.html",
+		"/F/udemy_web/7.adavnce_css/style2.css",
+		"/F/udemy_web/7.adavnce_css/index2.html",
+		"/F/udemy_web/7.adavnce_css/9.1 style.css.css",
+		"/F/udemy_web/7.adavnce_css/9.2 index.html.html",
+		"/F/udemy_web/7.adavnce_css/notes.txt",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/11.2 index.html.html",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/11.1 style.css.css",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/9.2 index.html.html",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/9.1 style.css.css",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/11. Solution Robot Animation.html",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/12. Optional Exercise CSS.html",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/10.2 index.html.html",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/10.1 style.css.css",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/10. Exercise Robot Animation Starter Files.html",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/9. Exercise Robot Animation.mp4",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/8.2 style.css.css",
+		"/F/Udemy - The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/8.1 index.html.html",
+		"/F/udemy_web/7.adavnce_css/index.html",
+		"/F/udemy_web/7.adavnce_css/style.css",
+		"/F/udemy_web/css/style5.css",
+		"/F/udemy_web/css/index5.html",
+		"/F/udemy_web/css/style4.css",
+		"/F/udemy_web/css/index4.html",
+		"/F/udemy_web/css/index3.html",
+		"/F/udemy_web/css/style3.css",
+		"/F/udemy_web/css/style2.css",
+		"/F/udemy_web/css/index2.html",
+		"/F/udemy_web/css/style.css",
+		"/F/udemy_web/css/index.html",
+		"/F/udemy_web/frontend-notes.txt",
+		"/F/udemy_web/advance html/form_notes.txt",
+		"/F/udacity/frontend_developer/making-peach-ice-cream/making-peach-ice-cream/index.html",
+		"/F/udacity/frontend_developer/making-peach-ice-cream/making-peach-ice-cream/css/styles.css",
+		"/F/udacity/frontend_developer/making-peach-ice-cream/making-peach-ice-cream/task4.html",
+		"/F/udacity/frontend_developer/task4.html",
+		"/C/Users/user/AppData/Local/Microsoft/Windows/INetCache/IE/8YUIX87Z/task4[1].html",
+		"/C/Users/user/AppData/Local/Microsoft/Windows/INetCache/IE/ZYMZJV56/index[1].html",
+		"/F/udacity/frontend_developer/vertical-align.html",
+		"/F/udacity/frontend_developer/try.html",
+		"/F/udemy_web/link.js",
+		"/F/udemy_web/pizza_app.html",
+		"/F/udemy_web/pizza.js",
+		"/F/udacity/frontend_developer/task3.html",
+		"/F/udemy_web/bill.html",
+		"/F/udemy_web/lol.js",
+		"/F/udemy_web/link.html",
+		"/F/udemy_web/8.3 register.html.html",
+		"/F/udacity/frontend_developer/notes.txt",
+		"/F/udacity/frontend_developer/card.html",
+		"/F/udacity/frontend_developer/1.html",
+		"/F/udacity/frontend_developer/task2.html",
+		"/F/udacity/frontend_developer/try_it.html",
+		"/F/udacity/frontend_developer/index.html",
+		"/C/Users/user/Downloads/mockup-to-article.zip",
+		"/C/Users/user/Desktop/cpj-java/1.html",
+		"/C/Users/user/Desktop/cpj-java/1.variable.js",
+		"/C/Users/user/Desktop/cpj-java/resposnsive.html",
+		"/C/Users/user/Desktop/cpj-java/PkgDemo.java",
+		"/C/Users/user/Desktop/cpj-java/Emp.java",
+		"/C/Users/user/Desktop/cpj-java/file.java",
+		"/C/Users/user/Desktop/cpj-java/Animal.java",
+		"/C/Users/user/Desktop/cpj-java/MammalInt.java",
+		"/C/Users/user/Desktop/cpj-java/demo.java",
+		"/C/Users/user/Desktop/cpj-java/B.java",
+		"/C/Users/user/Desktop/cpj-java/A.java",
+		"/C/Users/user/Desktop/MammalInt.java",
+		"/C/Users/user/Desktop/Animal.java",
+		"/C/Users/user/Desktop/cpj-java/app.html",
+		"/C/Users/user/Desktop/cpj-java/on.java",
+		"/C/Users/user/Desktop/file.java",
+		"/C/Users/user/Desktop/cpj-java/hello.java",
+		"/C/Users/user/Desktop/cpj-java/HelloWorldApplet.java",
+		"/C/Users/user/Desktop/cpj-java/First.java",
+		"/C/Users/user/Desktop/note.txt",
+		"/C/Users/user/Desktop/web.html",
+		"/C/Users/user/Desktop/2.html",
+		"/C/Users/user/Desktop/2.js",
+		"/C/Users/user/Desktop/p26.css",
+		"/C/Users/user/Documents/django/Elearning/lol.html",
+		"/C/Users/user/Documents/My Cheat Tables/hello.bat",
+		"/C/Users/user/Documents/django/Elearning/1.html",
+		"/C/Users/user/Documents/django/Elearning/p5.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"4jmedia",
+			"=\"\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

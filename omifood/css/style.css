@@ -1,0 +1,25 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	/*border:2px solid aqua;*/
+}
+
+html{
+	font-family: "lato","Arial","sans-serif";	
+	font-size: 20px;
+	font-weight: 300;
+	text-rendering: optimizeLegibility;
+}
+
+.row{
+	max-width: 1140px;
+	margin: 0 auto;
+}
+
+header{
+	background-image: url("img/hero.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
